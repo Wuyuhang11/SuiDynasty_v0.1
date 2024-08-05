@@ -1,2 +1,2 @@
 # SQLAUTO-Model
-一款基于 InternLM 实现自然语言转换为SQL的智能大模型
+一款基于 InternLM 的自然语言虚伪鉴别、细节推理的审判者大模型
