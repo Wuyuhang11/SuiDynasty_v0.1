@@ -76,17 +76,17 @@ streamlit run xtuner_streamlit_demo.py
 ```
 
 5. 效果图
-   ![image](https://github.com/user-attachments/assets/c0f9a154-aaa2-42c3-b356-df93a58322a6)
+![image](https://github.com/user-attachments/assets/c0f9a154-aaa2-42c3-b356-df93a58322a6)
 
 ![image](https://github.com/user-attachments/assets/55ff610b-64ac-4db5-88eb-e35feb91cfaf)
 
-
-
-6. License
-Apache 2.0 — see the [LICENSE](https://github.com/mem0ai/mem0/blob/main/LICENSE) file for details.
 
 
 
 #### 3.项目结构图
 
 ![image](https://github.com/user-attachments/assets/c98c1647-3de7-4c8a-b8a2-956415191f07)
+
+
+### License
+Apache 2.0 — see the [LICENSE](https://github.com/mem0ai/mem0/blob/main/LICENSE) file for details.
